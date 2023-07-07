@@ -47,3 +47,4 @@ Finally if needed Using the "mysql-connector-python" library to connect to the M
 
 ## EXPLORE
 Run python Phonepe_Pulse.py to start the application(streamlit run Phonepe_Pulse.py). Access the application in your web browser by navigating to http://localhost:8501 Select the desired date range and metrics to visualize. Explore the data using the interactive charts provided by Plotly Express.
+
